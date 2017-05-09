@@ -1,4 +1,6 @@
 .c-input, .input-group, .input-group-btn, .input-group-btn>.btn{
 position:static;
 }
-
+.mbr-subscribe .input-group-btn::after{
+position:relative;
+}
