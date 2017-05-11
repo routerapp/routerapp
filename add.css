@@ -17,3 +17,11 @@ position:relative;
 .mbr-subscribe.mbr-subscribe-dark.input-group{
 background:rgb(38, 50, 56);
 }
+
+
+.our-team .feature-img img{
+width:100%;
+}
+.our-team {
+background:#54f197;
+}
