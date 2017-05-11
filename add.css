@@ -4,3 +4,13 @@ position:static;
 .mbr-subscribe .input-group-btn::after{
 position:relative;
 }
+
+.row-main{
+
+    display: flex;
+    align-items: center;
+}
+
+.feats{
+  text-align: left;
+}
